@@ -1,3 +1,4 @@
+use reqwest;
 use reqwest::Client;
 use reqwest::header::{HeaderMap, HeaderValue};
 use std::collections::HashMap;

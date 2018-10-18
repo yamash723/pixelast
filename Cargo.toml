@@ -2,7 +2,6 @@
 name = "pixelast"
 version = "0.1.0"
 authors = ["Shuhei Yamashita <b.e7472@gmail.com>"]
-edition = "2018"
 repository = "https://github.com/yamash723/pixelast"
 keywords = ["pixela"]
 license-file = "LICENSE"

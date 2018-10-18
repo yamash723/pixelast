@@ -1,3 +1,6 @@
+use reqwest;
+use serde_json;
+
 /// The Errors that may occur when processing a Request.
 #[derive(Debug, Fail)]
 pub enum PixelaClientError {

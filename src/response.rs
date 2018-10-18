@@ -1,5 +1,6 @@
 use super::PixelaClientError;
 
+use serde_json;
 use failure::Error;
 
 #[derive(Serialize, Deserialize, Debug)]
