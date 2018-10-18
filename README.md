@@ -1,6 +1,8 @@
 pixelast
 =================
 
+![](https://travis-ci.org/yamash723/pixelast.svg?branch=master)
+
 This library is Pixela client for Rust.
 
 * [Pixe.la](https://pixe.la/)
